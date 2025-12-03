@@ -2,7 +2,7 @@
 
 #### Senior Software Engineer with over 10 years of experience. Web App development using React, Ember.js and Typescript on the frontend, Rails, Django and Node.js on the backend. Believer in thorough automated tests and documentation.
 
-Portfolio website 🎨: [kcarmonamurphy.github.io](kcarmonamurphy.github.io)
+Portfolio website 🎨: [kcarmonamurphy.github.io](https://kcarmonamurphy.github.io)
 
 Current Role: Senior Software Engineer @ [Citylitics - Public Infrastructure Sales Insights](https://citylitics.com/)
 
